@@ -1,4 +1,4 @@
----
+Hello---
 title: Learn GitHub Packages
 shortTitle: Learn GitHub Packages
 intro: 'You can find out more about GitHub Packages, including publishing new packages to {% data variables.product.prodname_registry %}.'
@@ -13,4 +13,4 @@ versions:
 
 {% link_in_list /about-github-packages %}
 {% link_in_list /core-concepts-for-github-packages %}
-{% link_in_list /publishing-a-package %}
+{% link_in_list /publishing-a-package % }
